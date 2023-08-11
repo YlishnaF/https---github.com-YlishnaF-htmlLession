@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    margin-top:57px;
+}
+
+.links {
+    margin-top: 68px;
+}
+.content{
+    margin-top: 96px;
+    margin-bottom: 145px;
+}
+.head{
+    padding-bottom: 17px;
+}
+.control{
+    margin-top: 37px;
+}
+.btn{
+    padding-top: 37px;
+}
+.watch{
+   padding-top: 52px; 
+}
+.partners{
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
